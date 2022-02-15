@@ -21,6 +21,8 @@ el osciloscopio.
 
 
 7.5.4. Responda las siguientes preguntas:
+
+
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 ___________
 
