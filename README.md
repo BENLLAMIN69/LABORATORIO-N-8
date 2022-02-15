@@ -75,8 +75,9 @@ f: _____________(Hz)
 
 _____________________________________
  
- VIDEO
+ # VIDEO
  
- CONCLUSIONES
+ # CONCLUSIONES
  
- BIBLIOGRAFÍA
+ # BIBLIOGRAFÍA
+ Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
