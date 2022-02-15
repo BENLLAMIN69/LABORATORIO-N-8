@@ -68,7 +68,7 @@ el osciloscopio.
 
 100 us
 
-7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
 
 
@@ -86,21 +86,23 @@ salida.
 ![image](https://user-images.githubusercontent.com/93900233/153991827-610e31c8-043e-43fd-9dc9-e17bfa7d443b.png)
 
 
-7.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
 
 ![image](https://user-images.githubusercontent.com/93900233/153991886-02776355-4289-4c43-9682-31323dd739cf.png)
 
-7.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
+8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
 ¿Coinciden? _______ ¿Por qué?
 
 No coinciden ya que cuando se mide el voltaje con el multimetro es el voltaje eficaz y el voltaje que sale en el osciloscopio nos sale el voltaje pico 
 
 ![image](https://user-images.githubusercontent.com/93900233/153993149-cefda247-040e-4a88-adaf-6b94aafe0307.png)
  
- 
+
  # VIDEO
  
  # CONCLUSIONES
+ 
+ - Se puede concluir que el osciloscopio permite en su uso desarrollar un análisis visual de la variación del voltaje en el circuito propuesto, ya que se puede observar el voltaje de pico, amplitud donde con algunos botones se puede modificar la vista para apreciar la frecuencia y el periodo. 
  
  # BIBLIOGRAFÍA
   - Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson
