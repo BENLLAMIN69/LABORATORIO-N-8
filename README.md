@@ -6,6 +6,10 @@ OBJETIVOS
 
 MARCO TEORICO
 
+![](https://github.com/BENLLAMIN69/LABORATORIO-N-8/blob/main/ima/ONDA%20SENOIDAL.png)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N-8/blob/main/ima/ONDA%20SENOIDAL%201.png)
+![](https://github.com/BENLLAMIN69/LABORATORIO-N-8/blob/main/ima/ONDA%20SENOIDAL%202.png)
+
 EXPLICACION DEL PROCEDIMIENTO
 
  Procedimiento
