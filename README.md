@@ -29,19 +29,18 @@ PROCEDIMIENTO
 |1|Resistor de 1 kΩ|
 |1|Resistor de 2.2 kΩ|
 |1|Protoboard|
+ 
+# RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
+ 
+8.5.1 Implemente el circuito que se presenta en la figura 7.1
+ 
+![image](https://user-images.githubusercontent.com/93900233/153991332-22f68a18-68cf-43c8-a62e-930a99f7d01f.png)
 
- RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
- 
- 8.5.1 Implemente el circuito que se presenta en la figura 7.1
- 
- ![image](https://user-images.githubusercontent.com/93900233/153991332-22f68a18-68cf-43c8-a62e-930a99f7d01f.png)
- 
- 
- ![image](https://user-images.githubusercontent.com/93900233/153991354-2e668b51-fffe-48fe-af94-1562cfe9e224.png)
+![image](https://user-images.githubusercontent.com/93900233/153991354-2e668b51-fffe-48fe-af94-1562cfe9e224.png)
 
- 
-8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
-una frecuencia de 2.5 Khz.
+8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp 
+
+- A una frecuencia de 2.5 Khz.
 
 8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
@@ -50,23 +49,21 @@ el osciloscopio.
 
 8.5.4. Responda las siguientes preguntas:
 
-
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-4 divisiones 
-
+- 4 divisiones 
 
 ¿En qué valor está posicionada la perilla VOLTS/DIV? 
 
-2 V
+- 2 V
 
 ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-4 divisiones 
+- 4 divisiones 
 
 ¿En qué valor está posicionada la perilla TIME/DIV? 
 
-100 us
+- 100 us
 
 8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
@@ -85,13 +82,12 @@ salida.
 
 ![image](https://user-images.githubusercontent.com/93900233/153991827-610e31c8-043e-43fd-9dc9-e17bfa7d443b.png)
 
-
-8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+8.5.7. Con el multímetro digital mida el voltaje de salida en RL: 
 
 ![image](https://user-images.githubusercontent.com/93900233/153991886-02776355-4289-4c43-9682-31323dd739cf.png)
 
 8.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
-¿Coinciden? _______ ¿Por qué?
+¿Coinciden? ¿Por qué?
 
 No coinciden ya que cuando se mide el voltaje con el multimetro es el voltaje eficaz y el voltaje que sale en el osciloscopio nos sale el voltaje pico 
 
@@ -102,7 +98,8 @@ No coinciden ya que cuando se mide el voltaje con el multimetro es el voltaje ef
  
  # CONCLUSIONES
  
- - Se puede concluir que el osciloscopio permite en su uso desarrollar un análisis visual de la variación del voltaje en el circuito propuesto, ya que se puede observar el voltaje de pico, amplitud donde con algunos botones se puede modificar la vista para apreciar la frecuencia y el periodo. 
+- Se puede concluir que el osciloscopio permite en su uso desarrollar un análisis visual de la variación del voltaje en el circuito propuesto, ya que se puede observar el voltaje de pico, amplitud donde con algunos botones se puede modificar la vista para apreciar la frecuencia y el periodo. 
+- Se comparó los valores obtenidos del voltaje con el osciloscopio y el multímetro y estos no coincidieron en los valores ya que el multímetro nos refleja el voltaje eficaz o RMS y el osciloscopio refleja el voltaje de valor máximo y mínimo.  
  
  # BIBLIOGRAFÍA
   - Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson
