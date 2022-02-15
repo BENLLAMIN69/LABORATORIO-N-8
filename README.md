@@ -95,5 +95,7 @@ _____________________________________
  
  # CONCLUSIONES
  
+
+ 
  # BIBLIOGRAFÍA
  Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson.
