@@ -1,8 +1,15 @@
 # LABORATORIO-N-8
-OBJETIVOS
-1.1. Objetivos Generales
+# OBJETIVOS
 
-1.2. Objetivos Específicos
+Objetivos Generales
+
+- Analizar y comprender los caracteristicas básicas acerca de las señales senoidales esto mediante la redacción de un informe academico para intepretar los valores que se representa en el osciloscopio, para llegar  plantear conclusiones que ayuden al endentimiento de la corriente alterna.
+
+Objetivos Específicos
+
+-	Explicar de manera abstracta una breve introducción de las características de las señales sinodales. 
+-	Entender los valores obtenidos en el osciloscopio. 
+-	Experimentar con los simuladores virtuales aplicando el circuito esquemático propuesto.
 
 # MARCO TEORICO
 
@@ -11,9 +18,7 @@ OBJETIVOS
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N-8/blob/main/ima/ONDA%20SENOIDAL%202.png)
 
 
-EXPLICACION DEL PROCEDIMIENTO
-
- Procedimiento
+PROCEDIMIENTO
  
  RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
  
@@ -82,8 +87,8 @@ No coinciden ya que cuando se mide el voltaje con el multimetro es el voltaje ef
 ![image](https://user-images.githubusercontent.com/93900233/153993149-cefda247-040e-4a88-adaf-6b94aafe0307.png)
  
  
- VIDEO
+ # VIDEO
  
- CONCLUSIONES
+ # CONCLUSIONES
  
- BIBLIOGRAFÍA
+ # BIBLIOGRAFÍA
