@@ -7,6 +7,10 @@
 
 1.2. Objetivos Específicos
 
+-	Explicar de manera abstracta una breve introducción de las características de las señales sinodales. 
+-	Entender los valores obtenidos en el osciloscopio. 
+-	Experimentar con los simuladores virtuales aplicando el circuito esquemático propuesto.
+
 MARCO TEORICO
 
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N-8/blob/main/ima/ONDA%20SENOIDAL.png)
