@@ -96,6 +96,8 @@ No coinciden ya que cuando se mide el voltaje con el multimetro es el voltaje ef
 
  # VIDEO
  
+ https://youtu.be/zOxQwRHsS7w
+ 
  # CONCLUSIONES
  
 - Se puede concluir que el osciloscopio permite en su uso desarrollar un análisis visual de la variación del voltaje en el circuito propuesto, ya que se puede observar el voltaje de pico, amplitud donde con algunos botones se puede modificar la vista para apreciar la frecuencia y el periodo. 
