@@ -11,15 +11,26 @@
 -	Entender los valores obtenidos en el osciloscopio. 
 -	Experimentar con los simuladores virtuales aplicando el circuito esquemático propuesto.
 
-MARCO TEORICO
+# MARCO TEORICO
 
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N-8/blob/main/ima/ONDA%20SENOIDAL.png)
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N-8/blob/main/ima/ONDA%20SENOIDAL%201.png)
 ![](https://github.com/BENLLAMIN69/LABORATORIO-N-8/blob/main/ima/ONDA%20SENOIDAL%202.png)
 
-EXPLICACION DEL PROCEDIMIENTO
+# MATERIAL Y EQUIPO REQUERIDO
+|Cantidad|Elemento|
+|--------|--------|
+|1|Generador de Funciones|
+|1|Osciloscopio|
+|1|Multímetro Digital|
+|1|Resistor de 1 kΩ|
+|1|Resistor de 2.2 kΩ|
+|1|Protoboard|
 
- Procedimiento
+Circuito esquematico 
+
+
+# PROCEDIMIENTO 
  
  RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
  
