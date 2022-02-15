@@ -1,6 +1,9 @@
 # LABORATORIO-N-8
-OBJETIVOS
+# OBJETIVOS
+
 1.1. Objetivos Generales
+
+- Analizar y comprender los caracteristicas básicas acerca de las señales senoidales esto mediante la redacción de un informe academico para intepretar los valores que se representa en el osciloscopio, para llegar  plantear conclusiones que ayuden al endentimiento de la corriente alterna.
 
 1.2. Objetivos Específicos
 
