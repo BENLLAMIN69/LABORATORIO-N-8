@@ -20,9 +20,19 @@ Objetivos Específicos
 
 PROCEDIMIENTO
  
+ # MATERIAL Y EQUIPO REQUERIDO
+|Cantidad|Elemento|
+|--------|--------|
+|1|Generador de Funciones|
+|1|Osciloscopio|
+|1|Multímetro Digital|
+|1|Resistor de 1 kΩ|
+|1|Resistor de 2.2 kΩ|
+|1|Protoboard|
+
  RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
  
- 7.5.1 Implemente el circuito que se presenta en la figura 7.1
+ 8.5.1 Implemente el circuito que se presenta en la figura 7.1
  
  ![image](https://user-images.githubusercontent.com/93900233/153991332-22f68a18-68cf-43c8-a62e-930a99f7d01f.png)
  
@@ -30,14 +40,15 @@ PROCEDIMIENTO
  ![image](https://user-images.githubusercontent.com/93900233/153991354-2e668b51-fffe-48fe-af94-1562cfe9e224.png)
 
  
- 7.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
-7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
+
+8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
 
 ![image](https://user-images.githubusercontent.com/93900233/153991470-e3a9fc7c-f8c8-425c-a599-d8e1d32f2265.png)
 
-7.5.4. Responda las siguientes preguntas:
+8.5.4. Responda las siguientes preguntas:
 
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
@@ -67,7 +78,7 @@ del osciloscopio?
 ![image](https://user-images.githubusercontent.com/93900233/153991620-59b5534e-9bbf-491e-9a3d-574dc32cc5c3.png)
 
 
-7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
 ![image](https://user-images.githubusercontent.com/93900233/153991789-8e5b6abf-6807-4645-aab6-bb90f6df25df.png)
@@ -79,7 +90,7 @@ salida.
 
 ![image](https://user-images.githubusercontent.com/93900233/153991886-02776355-4289-4c43-9682-31323dd739cf.png)
 
-7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+7.5.8. Compare el voltaje medido en el punto 8.5.5. y el obtenido en el punto 8.5.7.
 ¿Coinciden? _______ ¿Por qué?
 
 No coinciden ya que cuando se mide el voltaje con el multimetro es el voltaje eficaz y el voltaje que sale en el osciloscopio nos sale el voltaje pico 
@@ -92,3 +103,4 @@ No coinciden ya que cuando se mide el voltaje con el multimetro es el voltaje ef
  # CONCLUSIONES
  
  # BIBLIOGRAFÍA
+  - Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Mexico. Editorial Pearson
