@@ -29,20 +29,21 @@
 
 Circuito esquematico 
 
+![](https://github.com/BENLLAMIN69/LABORATORIO-N-8/blob/main/ima/Captura%20de%20pantalla%202022-02-14%20235812.png)
 
 # PROCEDIMIENTO 
  
  RESPUESTAS A INTERROGANTES Y CALCULO DEL ERROR.
  
- 7.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
+8.5.2.. Ajuste el generador de funciones, para que proporcione una señal de 20 Vpp a
 una frecuencia de 2.5 Khz.
 
 
-7.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
+8.5.3. Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
 
 
-7.5.4. Responda las siguientes preguntas:
+8.5.4. Responda las siguientes preguntas:
 
 
 ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
@@ -59,7 +60,7 @@ __________
 ¿En qué valor está posicionada la perilla TIME/DIV? ___________
 
 
-7.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
+8.5.5.¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
 
 
@@ -69,7 +70,7 @@ Amplitud de voltaje: ____________(V)
 Periodo: ____________(s)
 
 
-7.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
+8.5.6. Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
 salida.
 
 
@@ -79,10 +80,10 @@ f: _____________(Hz)
 ω: ____________(rad/s)
 
 
-7.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
+8.5.7. Con el multímetro digital mida el voltaje de salida en RL: _______________
 
 
-7.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
+8.5.8. Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
 
 ¿Coinciden? _______ ¿Por qué?
